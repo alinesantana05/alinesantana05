@@ -19,10 +19,8 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de B
 
 
 <div style="display: inline">
-&nbsp;&nbsp;<img width='150' height='50' src="https://alinesantana05.github.io/portifolio.github.io/" />&nbsp;&nbsp;
-&nbsp;
-&nbsp;&nbsp;<img width='160' height='50' src="https://github.com/user-attachments/assets/fa4205d1-eef5-4269-bdf7-274aa6b4144d" />&nbsp;&nbsp;
-&nbsp;
+
+<a href="https://www.linkedin.com/in/alinesantana05/">LINKEDIN</a>
 
 </div> 
 
