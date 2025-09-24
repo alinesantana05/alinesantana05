@@ -1,7 +1,7 @@
 ### Olá, sou Aline S. Santana :)
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Bragança Paulista, e tenho muito interesse na área de **Dados**. Ao longo do tempo venho aprimorando minhas habilidades com projetos práticos.
 
-- 👩🏾‍💻 Aqui no meu GitHub, você encontrará projetos voltados para **análise exploratória de dados, consultas SQL otimizadas, criação de dashboards interativos e web scraping**. Estou sempre buscando aprender novas técnicas!
+- 👩🏾‍💻 Aqui no meu GitHub, ao longo do tempo, você encontrará projetos voltados para **análise exploratória de dados, consultas SQL otimizadas, criação de dashboards interativos e web scraping**. Estou sempre buscando aprender novas técnicas!
 
 ### 🚀 Conhecimentos e ferramentas em evolução:
   
